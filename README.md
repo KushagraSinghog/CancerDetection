@@ -1,4 +1,4 @@
-                                                                            Lung Cancer Detection using DenseNet-121
+                                      Lung Cancer Detection using DenseNet-121
 
 A deep learning project that classifies lung CT images into four categories:
 
