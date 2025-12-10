@@ -52,7 +52,7 @@ Training Pipeline:
 
    3. Optimizer & Scheduler: Adam (LR = 1e-4), ReduceLROnPlateau scheduler
 
-   4. criterion = nn.CrossEntropyLoss(weight=class_weights)
+   4. Loss function: criterion = nn.CrossEntropyLoss(weight=class_weights)
 
 
 
