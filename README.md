@@ -20,7 +20,7 @@ Key Features:
 
 4. Strong Performance:
                        Test Accuracy: ~91%
-                       Macro F1-Score: ~0.91
+                       Macro F1-Score: ~0.92
 
    Stable loss and accuracy curves with minimal overfitting.
 
@@ -60,10 +60,10 @@ Results:
 
    | Class                | Precision | Recall | F1-Score |
    | -------------------- | --------- | ------ | -------- |
-   | Adenocarcinoma       | 0.90      | 0.86   | 0.88     |
-   | Large Cell Carcinoma | 0.81      | 0.86   | 0.84     |
-   | Normal               | 1.00      | 0.98   | 0.99     |
-   | Squamous Cell        | 0.93      | 0.97   | 0.95     |
+   | Adenocarcinoma       | 0.98      | 0.82   | 0.89     |
+   | Large Cell Carcinoma | 0.88      | 0.96   | 0.92     |
+   | Normal               | 1.00      | 1.00   | 1.00     |
+   | Squamous Cell        | 0.83      | 0.97   | 0.89     |
 
-   Overall Accuracy: 91.11%
-   Macro F1-Score: 0.91 
+   Overall Accuracy: 91.43%
+   Macro F1-Score: 0.92 
